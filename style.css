@@ -1,0 +1,28 @@
+body {
+    font-family: 'Lato', sans-serif;  
+}
+h1 {
+    color: brown;
+    font-size: 30px;
+}
+h3 {
+    color:coral;
+    font-size: 25px;
+}
+h5 {
+    color: brown;
+    font-size: 15px;
+}
+.abc {
+    color: darkred;
+}
+a {
+    font-size: 20px;
+}
+button {
+    font-size: 20px;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
